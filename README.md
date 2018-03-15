@@ -1,6 +1,6 @@
 # bookstore application
 
-boilerplate from stephen grider [git](https://github.com/StephenGrider/)?
+boilerplate from stephen grider [git](https://github.com/StephenGrider/)
 
 ### what's here
 
