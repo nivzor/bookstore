@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": "",
   "scripts": {
-    "build": "node ./node_modules/webpack/bin/webpack.js",
+    "dist": "node ./node_modules/webpack/bin/webpack.js",
     "start": "node server",
     "test": "mocha --compilers js:babel-core/register --require ./test/test_helper.js --recursive ./test",
     "test:watch": "npm run test -- --watch"
